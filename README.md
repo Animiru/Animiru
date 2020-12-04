@@ -8,7 +8,7 @@
    <a href="https://animiru.net"><img src="https://img.shields.io/website?down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fanimiru.net" alt="Website Online?"/></a>
   </p>
   <p>We are Animiru, our foremost goal is to deliver anime based content to our community. We aspire to achieve this goal by creating and distributing content oriented around what you want!</p>
-  <h4><a href="https://animiru.net">Animiru.net</a></h4>
+  <p><a href="https://animiru.net">Animiru.net</a></p>
 </p>
 
 ### Roadmap
