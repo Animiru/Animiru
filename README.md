@@ -11,7 +11,7 @@
   <p><a href="https://animiru.net">Animiru.net</a></p>
 </p>
 
-### Roadmap
+### Current Roadmap
 - [ ] Website Revamp
 - [ ] Create Desktop App
 - [ ] Create Mobile App
