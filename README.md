@@ -12,6 +12,6 @@
 </p>
 
 ### Current Roadmap
-- [ ] Website Revamp
+- [x] Website Revamp
 - [ ] Create Desktop App
 - [ ] Create Mobile App
