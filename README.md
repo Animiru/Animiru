@@ -11,6 +11,8 @@
   <p><a href="https://animiru.net">Animiru.net</a></p>
 </p>
 
+For legal reasons [DMCA](https://github.com/Animiru/Animiru/blob/master-uwu/DMCA.md)
+
 ### Current Roadmap
 - [x] Website Revamp
 - [ ] Create Desktop App
