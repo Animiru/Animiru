@@ -4,9 +4,9 @@ We may collect some information about our visitors. This information is not limi
 
 ## Information we do collect
 
-Upon sign in for Animiru, you agree on Discord's oauth panel that Animiru.net may have access to your basic account information and email. This information is but is not limited to: username, discriminator, public_flags, userId, avatar, email.
+Upon sign in for Animiru, you agree on Discord's oauth panel that Animiru.net may have access to your basic account information and email. This information includes but is not limited to: username, discriminator, public_flags, userId, avatar, email.
 
-When using Animiru.net the information collected while signed in is but is not limited to: bookmarks, watched episodes, common_genre, watch_time, exp, level, badges. 
+When using Animiru.net the information collected while signed in includes but is not limited to: bookmarks, watched episodes, common_genre, watch_time, exp, level, badges. 
 
 **None of the data collected by Animiru.net is shared or distibuted**.
 
