@@ -2,6 +2,14 @@
 
 We may collect some information about our visitors. This information is not limited to IP addresses, timestamps and browser details. But, we ensure that information cannot identify specific visitor of this site. We collect this information to improve our website and increase users comfort. We will not provide or sell any of collected information to third parties. Also if necessary our website use cookies to store information about user preferences or details needed to run all of the website features properly. You may disable cookies on our website, but this can affect some of our features to work.
 
+## Information we do collect
+
+Upon sign in for Animiru, you agree on Discord's oauth panel that Animiru.net may have access to your basic account information and email. This information is but is not limited to: username, discriminator, public_flags, userId, avatar, email.
+
+When using Animiru.net the information collected while signed in is but is not limited to: bookmarks, watched episodes, common_genre, watch_time, exp, level, badges. 
+
+**None of the data collected by Animiru.net is shared or distibuted**.
+
 ## Legal Disclaimer
 
 The author is not responsible for any contents linked or referred to from his pages - If any damage occurs by the use of information presented there, only the author of the respective pages might be liable, not the one who has linked to these pages. **Animiru.net doesn't host any content**.
